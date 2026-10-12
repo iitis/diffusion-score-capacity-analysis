@@ -29,13 +29,15 @@ $$
 jedna z typowych postaci celu treningowego ma postać:
 
 $$
-\mathcal{L}_{DSM}(\theta)
+\mathcal{L}_{\mathrm{DSM}}(\theta)
 =
 \mathbb{E}_{x_0,t,\varepsilon}
 \left[
 \lambda(t)
 \left\|
-s_\theta(x_t,t)+\frac{\varepsilon}{\sigma(t)}
+s_\theta(x_t,t)
++
+\frac{\varepsilon}{\sigma(t)}
 \right\|_2^2
 \right].
 $$
