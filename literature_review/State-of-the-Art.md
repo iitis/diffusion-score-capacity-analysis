@@ -28,9 +28,7 @@ $$
 
 jedna z typowych postaci celu treningowego ma postać:
 
-$$
-\mathcal{L}_{\mathrm{DSM}}(\theta)
-=
+$$ \mathcal{L}_{\mathrm{DSM}}(\theta) =
 \mathbb{E}_{x_0,t,\varepsilon}
 \left[
 \lambda(t)
