@@ -6,7 +6,7 @@ Repozytorium badawcze projektu zgłoszonego w ramach **wniosku o przyznanie fina
 
 - **Wnioskodawca i wykonawca:** mgr Marzena Halama
 - **Kierownik zespołu / promotor:** dr hab. inż. Joanna Domańska
-- **Okres realizacji:** 01.08.2026–30.11.2026
+- **Okres realizacji:** 01.08.2026–31.10.2026
 
 
 ## Cel projektu
